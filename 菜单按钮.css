@@ -1,0 +1,35 @@
+﻿*{padding:0;
+margin:0;
+font-family:'Microsoft Yahei';
+}
+#menu_btn{width:36px;height:36px;background:red;position:relative;
+transition:0.4s ease;
+-ms-transition:0.4s ease;
+-moz-transition:0.4s ease;
+-webkit-transition:0.4s ease;
+-o-transition:0.4s ease;
+}
+.white_bar{width:36px;height:4px;
+background:white;
+}
+#top{position:absolute;top:8px;right:0;
+transition:0.4s ease;
+-ms-transition:0.4s ease;
+-moz-transition:0.4s ease;
+-webkit-transition:0.4s ease;
+-o-transition:0.4s ease;
+}
+#middle{position:absolute;top:16px;right:0;
+transition:0.4s ease;
+-ms-transition:0.4s ease;
+-moz-transition:0.4s ease;
+-webkit-transition:0.4s ease;
+-o-transition:0.4s ease;
+}
+#bottom{position:absolute;bottom:8px;right:0;
+transition:0.4s ease;
+-ms-transition:0.4s ease;
+-moz-transition:0.4s ease;
+-webkit-transition:0.4s ease;
+-o-transition:0.4s ease;
+}
